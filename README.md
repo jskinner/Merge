@@ -12,7 +12,7 @@ to vote on issues.
 
 ## Before creating a new issue
 
-* **This tracker is for issues with the Sublime Merge only.**
+* **This tracker is for issues with Sublime Merge only.**
 
   For issues with the Sublime Text text editor,
   refer to the [Core repository](https://github.com/SublimeTextIssues/Core).
