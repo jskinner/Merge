@@ -2,7 +2,7 @@
 
 ## The issue list
 
-Head straight to <https://github.com/SublimeTextIssues/Core/issues>
+Head straight to <https://github.com/SublimeTextIssues/Merge/issues>
 for a list of all issues 
 or click `Issues` in the navigation bar on the almost-top.
 
