@@ -1,3 +1,9 @@
+# There is an official issue tracker for Sublime Merge now! Please open your issues there instead.
+
+# <https://github.com/sublimehq/sublime_merge>
+
+---
+
 # Sublime Merge - Bug and Issue Tracker
 
 ## The issue list
